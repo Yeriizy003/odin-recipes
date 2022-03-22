@@ -1,2 +1,2 @@
 # odin-recipes
-Recipe i created from odin project
+Recipe i created from the odin project
